@@ -1,4 +1,4 @@
-package prueba.Mapping;
+package hibernateCache.hibernateCache;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
